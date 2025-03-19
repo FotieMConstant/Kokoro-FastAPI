@@ -34,7 +34,6 @@ tests/
 *.md
 *.txt
 !requirements.txt
-!pyproject.toml
 
 # Docker
 Dockerfile*
